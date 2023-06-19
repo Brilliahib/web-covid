@@ -131,7 +131,7 @@ span {
 
 .heading {
   text-align: center;
-  padding-top: 24px;
+  padding-top: 12px;
   color: #2c327b;
 }
 
@@ -211,6 +211,5 @@ span {
   .heading {
     text-align: center;
     font-size: 2rem;
-    padding: 20px;
   }
 }
